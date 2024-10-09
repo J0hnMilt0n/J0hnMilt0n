@@ -1,6 +1,6 @@
   Hi there 👋, I'm J0hnMilt0n  <br><br>
   <a href="https://J0hnMilt0n.github.io">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
+    <img height="5px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
   </a>
 
 <!--
