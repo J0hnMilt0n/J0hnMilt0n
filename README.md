@@ -1,8 +1,8 @@
   Hi there 👋, I'm J0hnMilt0n  <br><br>
   <a href="https://J0hnMilt0n.github.io">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
   </a>
-  <i class="fa fa-github" aria-hidden="true"></i>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
