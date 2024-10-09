@@ -1,4 +1,6 @@
-Hi there 👋, I'm J0hnMilt0n
+Hi there 👋, I'm J0hnMilt0n  <a href="https://https://J0hnMilt0n.github.io">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
