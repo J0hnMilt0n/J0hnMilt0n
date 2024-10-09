@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm J0hnMilt0n
+Hi there 👋, I'm J0hnMilt0n
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
