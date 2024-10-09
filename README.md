@@ -1,5 +1,6 @@
-<body style='background-color: black;'>Hi there 👋, I'm J0hnMilt0n  <br><br>
-    <a href="https://https://J0hnMilt0n.github.io">
+<body style='background-color: black; color: white;'>
+  Hi there 👋, I'm J0hnMilt0n  <br><br>
+  <a href="https://J0hnMilt0n.github.io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 <!--
