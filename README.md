@@ -1,7 +1,9 @@
-1.   Hi there 👋, I'm J0hnMilt0n
-     `<a href="https://J0hnMilt0n.github.io">`
-       `<img height="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>`
-     `</a>`
+  Hi there 👋, I'm J0hnMilt0n 
+  <a href="https://J0hnMilt0n.github.io">
+    <img height="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
+  </a>
+
+
 
 ---
 
