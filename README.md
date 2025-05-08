@@ -29,7 +29,7 @@
 - [Inventory-web-Flask](https://github.com/J0hnMilt0n/Inventory-web-Flask) - Inventory management (Python)
 - [Projects](https://github.com/J0hnMilt0n/Projects) - Miscellaneous Python projects
 
-### 🗃️ Automation
+### 🔁 Automation
 - [WhatsApp Chatbot](https://github.com/J0hnMilt0n/Whatsapp-Chatbot) - Business Automation (Python, Flask, Twilio)
 
 ### 🕹️ Games & Fun
