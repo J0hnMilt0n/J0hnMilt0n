@@ -7,9 +7,13 @@
 ## 🚀 Project Categories
 
 ### 🖥️ Full Stack / Web Development
-- [College-Management](https://github.com/J0hnMilt0n/College-Management) - College management system (JavaScript)
+- [College-Management](https://github.com/J0hnMilt0n/College-Management) - College management system (Django, JavaScript)
+- [restaurant](https://github.com/J0hnMilt0n/restaurant) - Restaurant management system (Django, JavaScript)
+- [Inventory-web-Flask](https://github.com/J0hnMilt0n/Inventory-web-Flask) - Inventory management (Python)
+- [Task-Management-System](https://github.com/J0hnMilt0n/Task-Management-System---Todo-) - Todo app (Python, Django)
 - [Todo-Mern](https://github.com/J0hnMilt0n/Todo-Mern) - MERN stack todo app (JavaScript)
 - [Django-Ecommerce](https://github.com/J0hnMilt0n/Django-Ecommerce) - E-commerce site (JavaScript/Python)
+- [Spotify Clone](https://github.com/J0hnMilt0n/SpotifyC2) - Spotify Clone (Python, Django)
 - [Instagram-Clone-Django](https://github.com/J0hnMilt0n/Instagram-Clone-Django) - Instagram clone (Python)
 - [react-portfolio](https://github.com/J0hnMilt0n/react-portfolio) - Personal portfolio (JavaScript)
 - [J0hnMilt0n.github.io](https://github.com/J0hnMilt0n/J0hnMilt0n.github.io) - Portfolio website (JavaScript)
@@ -26,7 +30,8 @@
 - [Duplicate-Files-Remover](https://github.com/J0hnMilt0n/Duplicate-Files-Remover) - Remove duplicate files (Python)
 - [ATM-Project](https://github.com/J0hnMilt0n/ATM-Project) - ATM simulation (Python)
 - [Weather-app](https://github.com/J0hnMilt0n/Weather-app) - Weather app (Python)
-- [Inventory-web-Flask](https://github.com/J0hnMilt0n/Inventory-web-Flask) - Inventory management (Python)
+- [Inventory-App-Python](https://github.com/J0hnMilt0n/Inventory-App-Python) - Inventory management (Python)
+- [Remainder](https://github.com/J0hnMilt0n/Remainder) - Reminder App (Python, tkinter)
 - [Projects](https://github.com/J0hnMilt0n/Projects) - Miscellaneous Python projects
 
 ### 🔁 Automation
