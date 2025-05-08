@@ -2,9 +2,6 @@
   <a href="https://J0hnMilt0n.github.io">
     <img height="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
   </a>
-
-
-
 ---
 
 ## 🚀 Project Categories
@@ -31,6 +28,9 @@
 - [Weather-app](https://github.com/J0hnMilt0n/Weather-app) - Weather app (Python)
 - [Inventory-web-Flask](https://github.com/J0hnMilt0n/Inventory-web-Flask) - Inventory management (Python)
 - [Projects](https://github.com/J0hnMilt0n/Projects) - Miscellaneous Python projects
+
+### 🗃️ Automation
+- [WhatsApp Chatbot](https://github.com/J0hnMilt0n/Whatsapp-Chatbot) - Business Automation (Python, Flask, Twilio)
 
 ### 🕹️ Games & Fun
 - [Bubble-Shoot](https://github.com/J0hnMilt0n/Bubble-Shoot) - Bubble shooter game (JavaScript)
