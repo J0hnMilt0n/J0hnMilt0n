@@ -14,6 +14,7 @@
 - [Todo-Mern](https://github.com/J0hnMilt0n/Todo-Mern) - MERN stack todo app (JavaScript)
 - [Django-Ecommerce](https://github.com/J0hnMilt0n/Django-Ecommerce) - E-commerce site (JavaScript/Python)
 - [Spotify Clone](https://github.com/J0hnMilt0n/SpotifyC2) - Spotify Clone (Python, Django)
+- [Facebook Clone](https://github.com/J0hnMilt0n/SocialConnect) - Facebook Clone (Python, Django Rest Framework, Next Js)
 - [Instagram-Clone-Django](https://github.com/J0hnMilt0n/Instagram-Clone-Django) - Instagram clone (Python)
 - [react-portfolio](https://github.com/J0hnMilt0n/react-portfolio) - Personal portfolio (JavaScript)
 - [J0hnMilt0n.github.io](https://github.com/J0hnMilt0n/J0hnMilt0n.github.io) - Portfolio website (JavaScript)
