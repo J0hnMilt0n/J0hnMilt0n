@@ -26,6 +26,7 @@
 - [Prediction-of-Crop-Yield--fertilizer-using-ML](https://github.com/J0hnMilt0n/Prediction-of-Crop-Yield--fertilizer-using-ML) - Crop yield prediction (Jupyter Notebook)
 - [Virtual-Mouse](https://github.com/J0hnMilt0n/Virtual-Mouse) - Control mouse with gestures (Python)
 - [Anti-Money-Laundering-ipynb](https://github.com/J0hnMilt0n/Anti-Money-Laundering-ipynb) - AML detection (Jupyter Notebook)
+- [UPI-Fraud-Detection](https://github.com/J0hnMilt0n/UPI-Fraud-Detection) - UPI-Fraud-Detection (Django Rest Framework, Next Js + TailwindCSS)
 
 ### 🗃️ Python Utilities & Scripts
 - [Duplicate-Files-Remover](https://github.com/J0hnMilt0n/Duplicate-Files-Remover) - Remove duplicate files (Python)
